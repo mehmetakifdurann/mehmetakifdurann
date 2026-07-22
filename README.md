@@ -33,13 +33,6 @@ CS student @ Başkent University, Ankara · Interested in backend development & 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-### 📊 GitHub Stats
-
-<p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=mehmetakifdurann&show_icons=true&theme=default&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetakifdurann&layout=compact&hide_border=true" />
-</p>
-
 ### 📫 Contact
 
-Reach out on [LinkedIn](https://linkedin.com/in/mehmetakifduran).
+Reach out on [LinkedIn](https://linkedin.com/in/mehmetakifduran) or via [email](mailto:mehmetakifdurann@gmail.com).
