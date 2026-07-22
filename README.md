@@ -15,6 +15,7 @@ CS student @ Başkent University, Ankara · Interested in backend development & 
 
 | Project | Description | Tech |
 |---|---|---|
+| [**OptiSched**](https://github.com/mehmetakifdurann/optimalSchedule) | University course scheduling system with an OR-Tools solver | FastAPI, React, PostgreSQL, OR-Tools |
 | [**İlaç Asistanım**](https://github.com/mehmetakifdurann/IlacAsistanim) | Medication tracking & reminder app for patients and caregivers | React Native, Node.js, PostgreSQL |
 | [**Stoxly**](https://github.com/mehmetakifdurann/Stoxly) | Investment analysis platform that translates financial data into plain language | Python, Streamlit, TypeScript |
 | [**FileBridge**](https://github.com/mehmetakifdurann/FileBridge) | File-sharing app built on the FTTP protocol (networking course project) | JavaScript, C#, ASP.NET |
